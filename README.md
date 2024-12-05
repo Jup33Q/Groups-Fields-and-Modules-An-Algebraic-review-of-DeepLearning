@@ -14,8 +14,8 @@ In addition, it is also my revision of my studies on structures of deep learning
 I hope this revision will explain why matrices works in terms of machines' understanding the real worlds.
 these pages are just chilled-out chatting, so I will only be serious on the maths proofs that I given, the remaining parts are just my thoughts, 
 maybe proof-less, or even wrong, but I think its funny and maybe true, I'm happy if you point those out.
-this is also sort of open-source 'project?'-ish thing, written with streamlit.\n
-Feel free to do PRs or fork those and 'fix my bugs'!
+this is also sort of open-source 'project?'-ish thing, written with streamlit.
+###### Feel free to do PRs or fork those and 'fix my bugs'!
 
 ## an sketch of contents
 
